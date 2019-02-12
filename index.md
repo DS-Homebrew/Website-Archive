@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to the main page for DS homebrew
 
-You can use the [editor on GitHub](https://github.com/DS-Homebrew/ds-homebrew.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a place where you can find various project relating to Nintendo DS Homebrew, including **TWiLightMenu++** & **nds-bootstrap**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### TWiLightMenu++
 
-### Markdown
+TWLMenu++ (Short for TWiLightMenu++) is a replacement for the DSi Menu that is used as a frontend for NDS-Bootstrap. It will run on a Nintendo DSi, a Nintendo 3DS & a flashcard.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**[GitHub](https://github.com/RocketRobz/TWiLightMenu)**           
+**[Update](https://github.com/RocketRobz/TWiLightMenu-Updater)**
 
-```markdown
-Syntax highlighted code block
+For additional features, you can get the following:          
+**[BMP Converter](https://online-converting.com/image/convert2bmp/)**             
+**[AceKard themes](https://github.com/DS-Homebrew/acekard-themes)**            
+**[R4 themes](https://github.com/DS-Homebrew/r4-themes)**
 
-# Header 1
-## Header 2
-### Header 3
+### nds-bootstrap
 
-- Bulleted
-- List
+nds-bootstrap is a homebrew applications which aims to allow users play DS ROMS on your SD card. It can also be used as a flashcard loader, which can be useful for flashcards that do not normally support ROM loading, like Games n Music & Action Replay DSi. It is also the only open-source ROM loader for the hardware. However, not every game is compatible, so you'll check the compatibility list. If a game is recorded but is for an outdated version or a game isn't recorded at all, you can try it yourself. If you'd like to add a game to the compatibility list, ask an admin to give you access.
 
-1. Numbered
-2. List
+**[Github Repository](https://github.com/ahezard/nds-bootstrap)**              
+**[Compatibility List](https://docs.google.com/spreadsheets/d/1LRTkXOUXraTMjg1eedz_f7b5jiuyMv2x6e_jY_nyHSc/edit?usp=sharing)**
 
-**Bold** and _Italic_ and `Code` text
+### Other Homebrew
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DS-Homebrew/ds-homebrew.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We also have support for other homebrew, like PicoDriveDS & Super Mario War DS (latter not able to compile for now). Check those out at our Github page
