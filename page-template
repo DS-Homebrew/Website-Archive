@@ -1,0 +1,68 @@
+<html lang="en">
+	<head>
+		<!-- Mobile meta tags -->
+        <meta charset="utf-8">
+        <meta name="theme-color" content="#000000" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, shrink-to-fit=no, user-scalable=yes">
+
+        <title></title>
+
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" />
+        <link rel="stylesheet" href="/css/bootstrap.css" />
+        <link rel="stylesheet" href="/css/mdb.css" />
+
+		<!-- SEO stuff -->
+		<base href="https://ds-homebrew.github.io" />
+        <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+        <meta property="og:title" content="" />
+        <meta property="og:url" content="https://ds-homebrew.github.io/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="NDS-Homebrew" />
+        <meta name="og:title" content="" />
+        <meta name="og:url" content="https://ds-homebrew.github.io/" />
+        <meta name="og:site_name" content="NDS-Homebrew" />
+        <meta name="og:type" content="website" />
+        <!-- Twitter information -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="" />
+        <meta name="twitter:creator" content="@NightYoshi370" />
+        <meta name="twitter:widgets:theme" content="dark">
+        <meta name="twitter:widgets:link-color" content="#000000">
+        <meta name="twitter:widgets:border-color" content="#000000">
+	</head>
+	<body>
+		<header class="container">
+			<nav class="mb-1 navbar navbar-expand-lg navbar-dark elegant-color-dark">
+				<a class="navbar-brand" href="#">
+					<img src="/img/logo.png" height="30" alt="NDS-Homebrew">
+				</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-555"
+				aria-controls="navbarSupportedContent-555" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent-555">
+					<ul class="navbar-nav mr-auto"></ul>
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item">
+							<a class="nav-link" href="#">List of homebrew (not working)</a>
+						</li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+		<main class="container">
+		</main>
+		<footer>
+		</footer>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+		<script src="js/bootstrap.js"></script>
+		<script src="js/mdb.min.js"></script>
+	</body>
+</html>
